@@ -1,5 +1,7 @@
 # Data-Wrangling
-Practice of Pandas
+**Practice of Pandas**
+
+---
 This practice project mainly for data manipulation by Pandas. Common operations in pandas data wrangling include:
 
 Selecting and filtering data based on specific criteria using boolean indexing Handling missing or null data using methods such as dropna(), fillna() or interpolate() Grouping and aggregating data using groupby() and agg() functions Reshaping data using pivot(), melt() and stack() functions Joining, merging or concatenating data using merge(), concat() or join() functions Creating new columns or transforming existing ones using apply(), map() or transform() functions Some important considerations when using pandas for data wrangling include:
